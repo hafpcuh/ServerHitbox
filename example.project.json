@@ -1,0 +1,23 @@
+{
+  "name": "project",
+
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+
+      "Libraries": {
+        "$className": "Folder",
+        "ServerHitbox": {
+          "$path": "src"
+        }
+      }
+    },
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "example/server"
+    }
+  }
+}
