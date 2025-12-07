@@ -1,17 +1,17 @@
 # ServerHitbox
 a hitbox library fully made from scratch<br>
-**[api explanation]()**, and **[hitbox config explanation]()**
+**[api explanation](https://github.com/hafpcuh/ServerHitbox?tab=readme-ov-file#hitbox-api)**, and **[hitbox config explanation](https://github.com/hafpcuh/ServerHitbox?tab=readme-ov-file#hitbox-config-explanation)**
 
 ### this library includes:
 - hitbox shapes (block, and sphere)
 - named hitboxes (optional)
 - debug parts (thanks to ObjectCache)
-- [cast rules]()
+- [cast rules](https://github.com/hafpcuh/ServerHitbox?tab=readme-ov-file#what-are-cast-rules)
 
 ## installation
 
 ### method 1: manually
-* download the [latest release]()
+* download the [latest release](https://github.com/hafpcuh/ServerHitbox/releases)
 * insert the `.rbxm` file into **Roblox Studio**, and place it anywhere you like (e.g. ReplicatedStorage)
 
 ### method 2: filesystem
